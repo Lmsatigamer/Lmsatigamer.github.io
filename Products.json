@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Black Hoodie",
+        "price": "149 DH",
+        "image": "https://i.imgur.com/1AqV3Yv.jpeg"
+    },
+    {
+        "name": "White T-Shirt",
+        "price": "79 DH",
+        "image": "https://i.imgur.com/MYtZfwi.jpeg"
+    },
+    {
+        "name": "Cargo Pants",
+        "price": "199 DH",
+        "image": "https://i.imgur.com/US1Qx5r.jpeg"
+    }
+]
